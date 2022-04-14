@@ -1,4 +1,4 @@
-# Virtual Bookshelf Database
+# Virtual Library
 ## Concepts Practiced
 - SQLite Databases
 - SQLAlchemy
